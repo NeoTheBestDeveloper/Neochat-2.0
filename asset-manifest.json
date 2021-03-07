@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Neochat-2.0/static/css/main.8040b1b2.chunk.css",
-    "main.js": "/Neochat-2.0/static/js/main.26f3478a.chunk.js",
-    "main.js.map": "/Neochat-2.0/static/js/main.26f3478a.chunk.js.map",
+    "main.js": "/Neochat-2.0/static/js/main.7fe016cf.chunk.js",
+    "main.js.map": "/Neochat-2.0/static/js/main.7fe016cf.chunk.js.map",
     "runtime-main.js": "/Neochat-2.0/static/js/runtime-main.e8ee88b8.js",
     "runtime-main.js.map": "/Neochat-2.0/static/js/runtime-main.e8ee88b8.js.map",
     "static/js/2.d46c3161.chunk.js": "/Neochat-2.0/static/js/2.d46c3161.chunk.js",
@@ -13,12 +13,13 @@
     "static/css/main.8040b1b2.chunk.css.map": "/Neochat-2.0/static/css/main.8040b1b2.chunk.css.map",
     "static/js/2.d46c3161.chunk.js.LICENSE.txt": "/Neochat-2.0/static/js/2.d46c3161.chunk.js.LICENSE.txt",
     "static/media/logo1.a9f3b94a.png": "/Neochat-2.0/static/media/logo1.a9f3b94a.png",
-    "static/media/logo2.a30d46b7.png": "/Neochat-2.0/static/media/logo2.a30d46b7.png"
+    "static/media/logo2.a30d46b7.png": "/Neochat-2.0/static/media/logo2.a30d46b7.png",
+    "static/media/lol.b1c93e44.mp3": "/Neochat-2.0/static/media/lol.b1c93e44.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.e8ee88b8.js",
     "static/js/2.d46c3161.chunk.js",
     "static/css/main.8040b1b2.chunk.css",
-    "static/js/main.26f3478a.chunk.js"
+    "static/js/main.7fe016cf.chunk.js"
   ]
 }

@@ -2,7 +2,7 @@ import MyPosts from './MyPosts/MyPosts'
 import s from './Profile.module.css'
 
 const Profile = () => {
-    return <div className={s.content}>
+    return <div className={s.Profile}>
         <img className={s.content_img}
             src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ftravelbylesley.co.uk%2Fwp-content%2Fuploads%2F2019%2F04%2Fbigstock-Beautiful-tropical-beach-with-68649619-Copy.jpg&f=1&nofb=1"
             alt=""

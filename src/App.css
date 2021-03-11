@@ -9,3 +9,8 @@
     'h h'
     'n c';
 }
+
+.content-wrapper {
+  grid-area: c;
+  background-color: gold;
+}

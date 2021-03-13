@@ -21,21 +21,6 @@
   margin-left: 30px;
 }
 
-.dialog {
-  font-size: 20px;
-  margin-bottom: 10px;
-  padding-left: 30px;
-}
-
-.dialog a {
-  text-decoration: none;
-  color: #000;
-}
-
-.dialog a:hover {
-  color: #69746a;
-}
-
 .messages {
   width: 60%;
   margin-left: 30px;

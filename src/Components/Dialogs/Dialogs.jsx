@@ -1,3 +1,4 @@
+import { NavLink } from 'react-router-dom';
 import s from './Dialogs.module.css';
 import Message from './Message/Message';
 
@@ -6,9 +7,9 @@ const Dialogs = (props) => {
         <div className={s.dialogs_title}>Dialogs</div>
         <div className={s.content_wrapper}>
             <div className={s.dialogs_items}>
-                <div className={s.dialog}><a href=".s">Dima</a></div>
-                <div className={s.dialog}><a href=".s">Sveta</a></div>
-                <div className={s.dialog}><a href=".s">Victor</a></div>
+                <div className={s.dialog}><NavLink to='/dialogs/1'>Dima</NavLink></div>
+                <div className={s.dialog}><NavLink to='/dialogs/2'>Sveta</NavLink></div>
+                <div className={s.dialog}><NavLink to='/dialogs/3'>Victor</NavLink></div>
             </div>
             <div className={s.messages}>
                 <Message author='Dima' text='Hi' ava='http://placehold.it/40x40/' />

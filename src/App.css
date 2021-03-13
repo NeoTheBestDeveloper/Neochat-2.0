@@ -12,5 +12,5 @@
 
 .content-wrapper {
   grid-area: c;
-  background-color: rgba(61, 236, 207, 0.973);
+  border-radius: 5px;
 }

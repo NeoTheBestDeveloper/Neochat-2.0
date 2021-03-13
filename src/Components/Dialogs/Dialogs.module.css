@@ -1,15 +1,22 @@
+.dialogs {
+  height: 100%;
+}
+
 .content_wrapper {
   display: flex;
   margin-bottom: 20px;
 }
 
 .dialogs_title {
+  padding-top: 20px;
   font-size: 25px;
-  margin: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
 }
 
 .dialogs_items {
-  width: 40%;
+  width: 25%;
   border-right: 1px solid #3e3e3e;
   margin-left: 30px;
 }
@@ -17,6 +24,7 @@
 .dialog {
   font-size: 20px;
   margin-bottom: 10px;
+  padding-left: 30px;
 }
 
 .dialog a {
@@ -29,6 +37,6 @@
 }
 
 .messages {
-  width: 40%;
+  width: 60%;
   margin-left: 30px;
 }

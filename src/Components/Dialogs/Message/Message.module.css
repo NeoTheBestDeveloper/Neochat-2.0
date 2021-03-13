@@ -1,0 +1,20 @@
+.message {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.message_author {
+  margin-right: 20px;
+}
+
+.author_ava {
+  margin-bottom: 10px;
+  border-radius: 50%;
+}
+
+.message_content {
+  border: 2px solid #ccc;
+  width: 100%;
+  border-radius: 20px;
+  padding: 15px;
+}
